@@ -1,0 +1,14 @@
+Jacob Myers README for Merge sort and Bucket sort
+
+usage:
+
+javac MergeSort.java
+javac BucketSort.java 
+
+java MergeSort
+java BucketSort
+
+file name:
+input.txt
+
+programs create output files called mergeOutput and bucketOutput, contains elapsed time.

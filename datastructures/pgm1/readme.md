@@ -1,8 +1,8 @@
-<h1>Doubly Linked List</h1>
+<h1>DoublyLinkedList.java</h1>
 
-<h1></h1>
+<h1>Queue.java</h1>
 
-<h1>Stack.java implementation</h1>
+<h1>Stack.java</h1>
 
 brief desc of stack.java here.
 

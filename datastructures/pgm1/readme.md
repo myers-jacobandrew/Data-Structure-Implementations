@@ -1,6 +1,10 @@
-<h1>Stack implementation</h1>
+<h1>Doubly Linked List</h1>
 
-this serves as a supplement to my stack program.
+<h1></h1>
+
+<h1>Stack.java implementation</h1>
+
+brief desc of stack.java here.
 
 <h3>compile:</h3> 
 javac Stack.java

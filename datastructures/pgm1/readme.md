@@ -1,4 +1,4 @@
-#Stack implementation readme
+<h1>Stack implementation</h1>
 
 this serves as a supplement to my stack program.
 

@@ -9,7 +9,7 @@ To use the Splay Tree, follow these steps:
 1.  Create a new Splay object.
 
 ```java
-Splay splayTree = new Splay();`
+Splay splayTree = new Splay();
 ```
 
 2.  Insert a node with a value.
